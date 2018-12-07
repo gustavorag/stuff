@@ -1,0 +1,9 @@
+As an operations administrator, I want proof that usage data collecting succeeded, so I can validate the correctness of the current billing process.
+
+As an operations administrator, I want proof that usage data collecting failed, so I can reschedule the collecting or do it manually.
+
+As an operations administrator, I want to configure the data collecting frequency, so I can choose for daily, weekly or monthly collecting.
+
+As a billing user, I want to relate the import of usage data to a specific period, so I can have only one valid import per period for each vendor file source.
+
+As an operations administrator, I want to reprocess data usage for a specific period so I can replace wrong import with the right data usage.
